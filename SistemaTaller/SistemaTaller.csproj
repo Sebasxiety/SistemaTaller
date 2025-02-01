@@ -68,6 +68,31 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Config\clsConexion.cs" />
+    <Compile Include="Controller\clsClientes.cs" />
+    <Compile Include="Controller\clsContratos.cs" />
+    <Compile Include="Controller\clsPagos.cs" />
+    <Compile Include="Controller\clsVehiculos.cs" />
+    <Compile Include="Model\DataSets\dsReporte.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReporte.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\dtoClientes.cs" />
+    <Compile Include="Model\dtoContratos.cs" />
+    <Compile Include="Model\dtoPagos.cs" />
+    <Compile Include="Model\dtoVehiculos.cs" />
+    <Compile Include="View\Clientes\frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Clientes\frmClientes.Designer.cs">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Contratos\frmContratos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Contratos\frmContratos.Designer.cs">
+      <DependentUpon>frmContratos.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\Inicio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +101,24 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\Pagos\frmPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Pagos\frmPagos.Designer.cs">
+      <DependentUpon>frmPagos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Reporte\frmReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Reporte\frmReporte.Designer.cs">
+      <DependentUpon>frmReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Vehiculos\frmVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Vehiculos\frmVehiculos.Designer.cs">
+      <DependentUpon>frmVehiculos.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -85,6 +128,24 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Reporting\Informe.rdlc" />
+    <EmbeddedResource Include="View\Clientes\frmClientes.resx">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Model\DataSets\dsReporte.xsc">
+      <DependentUpon>dsReporte.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\dsReporte.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReporte.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Model\DataSets\dsReporte.xss">
+      <DependentUpon>dsReporte.xsd</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -99,11 +160,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controller\" />
-    <Folder Include="Model\" />
-    <Folder Include="Reporting\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

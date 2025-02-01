@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\view\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\view\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\view\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\view\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\view\\clientes\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\view\\clientes\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\controller\\clscontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\controller\\clscontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\controller\\clspagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\controller\\clspagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\controller\\clsvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\controller\\clsvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\controller\\clsclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\controller\\clsclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\config\\clsconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\config\\clsconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\model\\dtovehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\model\\dtovehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\model\\dtocontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\model\\dtocontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\model\\dtopagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\model\\dtopagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|c:\\users\\mayerli\\source\\repos\\sistemataller\\sistemataller\\model\\dtoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA1E7AE-A88C-4974-8A9F-C7CDDE7343CE}|SistemaTaller\\SistemaTaller.csproj|solutionrelative:sistemataller\\model\\dtoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +58,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\View\\Inicio.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaTaller\\View\\Inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\View\\Inicio.Designer.cs",
+              "RelativeToolTip": "SistemaTaller\\View\\Inicio.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:48:05.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\View\\Inicio.cs",
+              "RelativeDocumentMoniker": "SistemaTaller\\View\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\View\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaTaller\\View\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:48:05.925Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\View\\Clientes\\frmClientes.cs",
+              "RelativeDocumentMoniker": "SistemaTaller\\View\\Clientes\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\View\\Clientes\\frmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaTaller\\View\\Clientes\\frmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:47:09.236Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "clsConexion.cs",
               "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Config\\clsConexion.cs",
               "RelativeDocumentMoniker": "SistemaTaller\\Config\\clsConexion.cs",
               "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Config\\clsConexion.cs",
               "RelativeToolTip": "SistemaTaller\\Config\\clsConexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T00:36:38.379Z",
+              "WhenOpened": "2025-02-01T02:42:09.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dtoVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Model\\dtoVehiculos.cs",
+              "RelativeDocumentMoniker": "SistemaTaller\\Model\\dtoVehiculos.cs",
+              "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Model\\dtoVehiculos.cs",
+              "RelativeToolTip": "SistemaTaller\\Model\\dtoVehiculos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:41:52.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dtoPagos.cs",
+              "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Model\\dtoPagos.cs",
+              "RelativeDocumentMoniker": "SistemaTaller\\Model\\dtoPagos.cs",
+              "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Model\\dtoPagos.cs",
+              "RelativeToolTip": "SistemaTaller\\Model\\dtoPagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:41:31.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dtoContratos.cs",
+              "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Model\\dtoContratos.cs",
+              "RelativeDocumentMoniker": "SistemaTaller\\Model\\dtoContratos.cs",
+              "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Model\\dtoContratos.cs",
+              "RelativeToolTip": "SistemaTaller\\Model\\dtoContratos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:41:23.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Controller\\clsClientes.cs",
+              "RelativeDocumentMoniker": "SistemaTaller\\Controller\\clsClientes.cs",
+              "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Controller\\clsClientes.cs",
+              "RelativeToolTip": "SistemaTaller\\Controller\\clsClientes.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:41:21.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsPagos.cs",
+              "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Controller\\clsPagos.cs",
+              "RelativeDocumentMoniker": "SistemaTaller\\Controller\\clsPagos.cs",
+              "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Controller\\clsPagos.cs",
+              "RelativeToolTip": "SistemaTaller\\Controller\\clsPagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:40:59.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsContratos.cs",
+              "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Controller\\clsContratos.cs",
+              "RelativeDocumentMoniker": "SistemaTaller\\Controller\\clsContratos.cs",
+              "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Controller\\clsContratos.cs",
+              "RelativeToolTip": "SistemaTaller\\Controller\\clsContratos.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAGkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:40:45.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Controller\\clsVehiculos.cs",
+              "RelativeDocumentMoniker": "SistemaTaller\\Controller\\clsVehiculos.cs",
+              "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Controller\\clsVehiculos.cs",
+              "RelativeToolTip": "SistemaTaller\\Controller\\clsVehiculos.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwGkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:39:58.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dtoClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Model\\dtoClientes.cs",
+              "RelativeDocumentMoniker": "SistemaTaller\\Model\\dtoClientes.cs",
+              "ToolTip": "C:\\Users\\Mayerli\\source\\repos\\SistemaTaller\\SistemaTaller\\Model\\dtoClientes.cs",
+              "RelativeToolTip": "SistemaTaller\\Model\\dtoClientes.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:39:40.598Z",
               "EditorCaption": ""
             }
           ]
