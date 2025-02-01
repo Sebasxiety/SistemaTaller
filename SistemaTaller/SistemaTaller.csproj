@@ -72,6 +72,9 @@
     <Compile Include="Controller\clsContratos.cs" />
     <Compile Include="Controller\clsPagos.cs" />
     <Compile Include="Controller\clsVehiculos.cs" />
+    <Compile Include="Model\DataSets\dsReporte.cs">
+      <DependentUpon>dsReporte.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Model\DataSets\dsReporte.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -132,8 +135,20 @@
     <EmbeddedResource Include="View\Clientes\frmClientes.resx">
       <DependentUpon>frmClientes.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="View\Contratos\frmContratos.resx">
+      <DependentUpon>frmContratos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\Inicio.resx">
       <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Pagos\frmPagos.resx">
+      <DependentUpon>frmPagos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Reporte\frmReporte.resx">
+      <DependentUpon>frmReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Vehiculos\frmVehiculos.resx">
+      <DependentUpon>frmVehiculos.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Model\DataSets\dsReporte.xsc">
       <DependentUpon>dsReporte.xsd</DependentUpon>
